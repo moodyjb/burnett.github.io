@@ -6,7 +6,7 @@ SITENAME = "Burnett's Blog"
 SITEURL = ''
 
 PATH = 'content'
-
+STATIC_PATHS = ['images']
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
